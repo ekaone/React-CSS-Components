@@ -1,10 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center">
+  Collection Vanilla CSS with React JS
+</h2>
 
-## Available Scripts
+## About
 
-In the project directory, you can run:
+About...
 
-### `yarn start`
+- 🚀 More details [ReactJS](https://reactjs.org/)
+- 🚀 Example CSS [Schools](https://www.w3schools.com/css/css_examples.asp)
+
+## Usage
+
+- Clone this repository
+- `npm install`
+- `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -12,57 +21,39 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `yarn test`
+- Live [Demo](.....)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshot
 
-### `yarn build`
+<p align="center">
+  <a href="https://ekaone.github.io/.........../">
+    <img src="./......" alt="Waiting List" />
+  </a>
+</p>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Author
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+✔ Eka Prasetia 🤵
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<a href="https://www.ekaprasetia.com/">
+  <img src="https://img.shields.io/badge/Writer-Blog-orange" alt="Blog" />
+</a>
 
-### `yarn eject`
+<a href="https://twitter.com/dannyeka">
+  <img src="https://img.shields.io/badge/Tweet-Twitter-blue" alt="Twitter" />
+</a>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<a href="mailto:ekaone3033@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ekaone3033@gmail.com-yellow" alt="Email" />
+</a>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+✔ Collection my App
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Find example all my [Scratch App](https://twolevel.net) 👉 on working 🛠
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+✔ Community
 
-## Learn More
+I am author for two communities in Indonesia
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- GatsbyJS Indonesia [Gatsby-ID](https://gatsbyjs.id)
+- RedwoodJS Indonesia [Redwood-ID](https://redwoodjs.id)
