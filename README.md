@@ -2,10 +2,6 @@
   Collection Vanilla CSS with React JS
 </h2>
 
-## About
-
-About...
-
 - 🚀 More details [ReactJS](https://reactjs.org/)
 - 🚀 Example CSS [Schools](https://www.w3schools.com/css/css_examples.asp)
 
@@ -21,13 +17,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-- Live [Demo](.....)
+- Live [Demo](https://ekaone.github.io/React-CSS-Components/)
 
 ## Screenshot
 
 <p align="center">
-  <a href="https://ekaone.github.io/.........../">
-    <img src="./......" alt="Waiting List" />
+  <a href="https://ekaone.github.io/React-CSS-Components/">
+    <img src="./src/assets/banner.png" alt="CSS collection" />
   </a>
 </p>
 
